@@ -1,0 +1,23 @@
+Metadata-Version: 2.0
+Name: dis3
+Version: 0.1.3
+Summary: Python 2.7 backport of the "dis" module from Python 3.5+
+Home-page: https://github.com/KeyWeeUsr/python-dis3
+Author: Tom X. Tobin
+Author-email: tomxtobin@tomxtobin.com
+License: MIT
+Description-Content-Type: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: License :: OSI Approved :: Python Software Foundation License
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 2 :: Only
+Classifier: Topic :: Software Development :: Disassemblers
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+
+See https://github.com/KeyWeeUsr/python-dis3 for details.
+
+
